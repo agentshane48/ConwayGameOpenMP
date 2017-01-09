@@ -1,0 +1,3 @@
+﻿  ConwaySerial.cpp
+c:\users\shane\documents\uca fall 2016\intro to parallel programming\project2\conwaysgame\conwayserial.cpp(146): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConwaysGame.vcxproj -> C:\Users\shane\Documents\UCA Fall 2016\Intro to Parallel Programming\Project2\ConwaysGame\Debug\ConwaysGame.exe
